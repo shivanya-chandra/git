@@ -1,0 +1,44 @@
+.calendar__main {
+	padding: 60px var(--padding);
+}
+
+.calendar__main-heading {
+	font-size: var(--heading-size);
+	color: var(--primary-orange);
+	font-weight: bold;
+}
+
+.calendar__main-card {
+	height: 150px;
+	width: 100%;
+	background-color: var(--tertiary-orange);
+	margin: 50px 0px;
+	display: flex;
+	border-radius: 10px;
+}
+
+.card-img {
+	height: 100%;
+	width: 150px;
+}
+
+.card-img img {
+	height: 100%;
+	border-radius: 10px;
+}
+
+.card-content {
+	padding: 20px 70px 30px 30px;
+	width: 100%;
+}
+
+.card-title {
+	color: var(--primary-violent);
+	font-weight: bold;
+	font-size: 24px;
+}
+
+.card-para {
+	font-size: 20px;
+	margin-top: 20px;
+}

@@ -1,0 +1,17 @@
+[
+	{
+		"img": "https://media.discordapp.net/attachments/780471839193432104/933742738590023800/image_14.png",
+		"title": "Public Calendar",
+		"para": "Containing those events open to the public."
+	},
+	{
+		"img": "https://media.discordapp.net/attachments/780471839193432104/933742738590023800/image_14.png",
+		"title": "School of Art in the World",
+		"para": "Containing events and exhibitions hosted by, led by, or featuring members of the School of Art community."
+	},
+	{
+		"img": "https://media.discordapp.net/attachments/780471839193432104/933742738590023800/image_14.png",
+		"title": "Community Calendar",
+		"para": "Containing those events open only to the SoA community."
+	}
+]

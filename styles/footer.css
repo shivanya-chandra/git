@@ -1,0 +1,14 @@
+.main__footer {
+	height: 100px;
+	background-color: var(--primary-violet);
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 60px;
+}
+
+.footer-content {
+	color: var(--second-shade-orange);
+	text-align: center;
+}

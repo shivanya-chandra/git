@@ -1,0 +1,13 @@
+.about {
+	padding: 90px var(--padding);
+	padding-bottom: 0px;
+}
+
+.about__content {
+	color: var(--primary-violet);
+	font-size: 24px;
+	background: var(--tertiary-orange);
+	padding: 50px 30px;
+	border-radius: 6px;
+	line-height: 34px;
+}
