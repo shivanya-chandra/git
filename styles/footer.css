@@ -5,7 +5,11 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	margin-top: 60px;
+    left: 0;
+    bottom: 0;
+    position: sticky;
+    align-items: center;
+    right: 0;
 }
 
 .footer-content {
